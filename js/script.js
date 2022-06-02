@@ -1,5 +1,5 @@
-const mario = documment.querySelector('.mario');
-const pipePosition = documment.querySelector('.pipe');
+const mario = document.querySelector('.mario');
+const pipePosition = document.querySelector('.pipe');
 
 const jump = () => {
     mario.classList.add('jump');
